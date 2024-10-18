@@ -6,3 +6,10 @@ Author: Aicha Moussaid
 Supervisor: Phuong T. Nguyen
 
 Co-Supervisor: Riccardo Rubei
+
+## Repository Structure 
+
+This repository is organized as follows:
+
+
+
