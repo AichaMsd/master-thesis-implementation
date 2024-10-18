@@ -1,0 +1,5 @@
+accelerate==0.31.0
+bitsandbytes==0.43.1
+transformers==4.41.2
+codecarbon==2.4.2
+matplotlib==3.9.0
