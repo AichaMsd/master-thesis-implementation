@@ -11,7 +11,7 @@ Co-Supervisor: Riccardo Rubei
 
 This repository is organized as follows:
 
-* `Datasets_Creation.ipynb` contains code for creating the main datasets used in the experiments for each PET. 
+* `Datasets_Creation.ipynb` contains code for creating the main datasets used in the experiments for each PET. It uses the file `Dataset.csv` as a base (available in `Datasets` folder). 
 * `Datasets` folder contains the resulting datasets by the above notebook if you don't wish to run it.
 * `Experiment_Execution.ipynb` is the main notebook to run to launch the experiments on a specific PET dataset.
 * `Evaluation_Analysis.ipynb` contains the code for the evaluation phase, which outputs different graphs for computational efficiency and performance evaluations, based on the files provided in the `Results` folder.
